@@ -14,6 +14,7 @@ def alan_kay_is_known_for
         
           :known_for => "Object Orientation",
           }
+          programmer_hash[:known_for]
 end
 
 def dennis_ritchies_language
